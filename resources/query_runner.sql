@@ -1,0 +1,2 @@
+-- Enter your sql code here
+-- # So this types of Query direct migrate in multiple database
